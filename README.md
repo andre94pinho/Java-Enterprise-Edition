@@ -2,7 +2,7 @@
 
 
 ### Visão geral
-![alt tag](https://github.com/andrempinho/A-Three-Tier-Application-using-the-Java-Enterprise-Edition-model/blob/master/Imagem/Overview2.png)
+![alt tag](https://github.com/andrempinho/A-Three-Tier-Application-using-the-Java-Enterprise-Edition-model/blob/master/Imagem/Overview.png)
 
 
 ### Screenshot
