@@ -15,6 +15,8 @@
 * Hibernate
 * Java Persistence Query Language (JPQL)
 * Enterprise JavaBeans (EJB)
+* HTML
+* Bootstrap
 * MySQL
 * Wildfly
 
