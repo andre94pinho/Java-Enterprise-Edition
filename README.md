@@ -12,6 +12,7 @@
 ### Tecnologias
 * Java
 * Java Persistence API (JPA)
+* Hibernate
 * Java Persistence Query Language (JPQL)
 * Enterprise JavaBeans (EJB)
 * MySQL
